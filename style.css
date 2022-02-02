@@ -1,0 +1,61 @@
+*{
+    background-color: pink;
+}
+
+form{
+    background-color: white;
+    padding: 5%;
+    margin: 10px 320px;
+    border-radius: 5%;
+}
+
+label{
+    background-color: white;
+}
+
+#name{
+    width: 68%;
+    margin: 2% 0 5% 0;
+    background-color: white;
+    border-radius: 20px;
+}
+
+#lastname{
+    width: 66%;
+    margin: 2% 0 5% 0;
+    background-color: white;
+    border-radius: 20px;
+}
+
+#adress{
+    width: 66%;
+    margin: 2% 0 5% 0;
+    background-color: white;
+    border-radius: 20px;
+}
+
+#contact{
+    width: 58%;
+    margin: 2% 0 5% 0;
+    background-color: white;
+    border-radius: 20px;
+}
+
+#opciones{
+    width: 48%;
+    background-color: white;
+    border-radius: 20px;
+    margin: 2% 0 5% 0;
+}
+
+#buy{
+    margin: 10px 60px;
+    width: 50%;
+    border-radius: 20%;
+}
+
+#image{
+    background-color: white;
+    width: 60%;
+    margin: 0 50px 20px;
+}
